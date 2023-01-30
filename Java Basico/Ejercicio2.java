@@ -17,7 +17,7 @@ public class Ejercicio2 {
         
         
         precioConIVa =Float.valueOf(df.format(SumarIva(precioInicial)));
-        System.out.println(precioConIVa);
+        System.out.println("El valor con IVA es de :"+precioConIVa);
     }
     
     public static float SumarIva(float precio){
