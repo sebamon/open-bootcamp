@@ -1,0 +1,5 @@
+Argentina=Buenos Aires
+Francia=Paris
+España=Madrid
+Chile=Santiago
+Italia=Roma

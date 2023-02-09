@@ -1,5 +1,3 @@
-import org.w3c.dom.TypeInfo;
-
 public class Ejercicio1 {
  
     public static void main(String[] args) {

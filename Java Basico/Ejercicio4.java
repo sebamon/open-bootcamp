@@ -29,7 +29,6 @@ public class Ejercicio4 {
         }
         @Override
         public String toString() {
-            // TODO Auto-generated method stub
             String respuesta = "Marca: " + this.marca +
                         "\nModelo: " + this.modelo +
                         "\nChipset: " +this.chipset;
@@ -74,7 +73,6 @@ public class Ejercicio4 {
 
         @Override
         public String toString() {
-            // TODO Auto-generated method stub
             String respuesta = "---SmartWatch--- : \n";
             respuesta+= super.toString();
             respuesta+="\nHora: "+ this.hora + 

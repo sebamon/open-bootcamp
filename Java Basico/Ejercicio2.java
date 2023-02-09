@@ -14,7 +14,7 @@ public class Ejercicio2 {
         float precioConIVa;
         System.out.println("Ingrese el valor al que desea calcular el iva: ");
         precioInicial = scanner.nextFloat();
-        
+        scanner.close();
         
         precioConIVa =Float.valueOf(df.format(SumarIva(precioInicial)));
         System.out.println("El valor con IVA es de :"+precioConIVa);
